@@ -4,7 +4,7 @@
     border: 1px solid blue*/
 }
 #backdrop{
-  background-image: url(../Images/busch-tractor.jpg);
+  background-image: url(../images/busch-tractor.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
